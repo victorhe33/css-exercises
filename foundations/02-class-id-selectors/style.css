@@ -1,0 +1,18 @@
+.oddclass {
+  font-family: "Verdana", sans-serif;
+  background-color: rgb(255, 173, 173);
+}
+
+#id2 {
+  color: blue;
+  font-size: 36px;
+}
+
+.class3, #id4 {
+  font-size: 24px;
+}
+
+#id4 {
+  background-color: rgb(146, 255, 132);
+  font-weight: 700;
+}
