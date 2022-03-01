@@ -3,15 +3,22 @@
   color: hsl(0, 100%, 50%);
 }
 
+<<<<<<< HEAD
 .small-para {
   font-size: 14px;
 }
 
+=======
+>>>>>>> 939b6b0 (FINISHED CSS FOUNDATIONS EXERCISES)
 .para {
   font-size: 22px;
 }
 
-.confirm {
+.small-para {
+  font-size: 12px;
+}
+
+#confirm-button {
   background: green;
   color: white;
   font-weight: bold;
@@ -23,12 +30,30 @@
   font-size: 20px;
 }
 
-.child {
+.text .child {
   color: red;
   font-size: 14px;
 }
 
 div.text {
   color: green;
+<<<<<<< HEAD
   font-size: 22px;
 }
+=======
+  font-size: 28px;
+}
+
+/* 
+  <p class="para">I'm just a simple paragraph!</p>
+  <p class="para small-para">I'm a smaller paragraph!</p>
+
+  <button id="confirm-button" class="button confirm">Confirm</button>
+  <button id="cancel-button" class="button cancel">Cancel</button>
+
+  <div class="text">I'm not related to those divs down there.</div>
+  <div class="text">I have a child!
+    <div class="text child">My ancestor is so embarrassing.</div>
+  </div>
+ */
+>>>>>>> 939b6b0 (FINISHED CSS FOUNDATIONS EXERCISES)
