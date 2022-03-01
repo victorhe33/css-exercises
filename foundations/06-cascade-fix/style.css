@@ -4,12 +4,15 @@
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .small-para {
   font-size: 14px;
 }
 
 =======
 >>>>>>> 939b6b0 (FINISHED CSS FOUNDATIONS EXERCISES)
+=======
+>>>>>>> refs/remotes/origin/main
 .para {
   font-size: 22px;
 }
@@ -55,5 +58,9 @@ div.text {
   <div class="text">I have a child!
     <div class="text child">My ancestor is so embarrassing.</div>
   </div>
+<<<<<<< HEAD
  */
 >>>>>>> 939b6b0 (FINISHED CSS FOUNDATIONS EXERCISES)
+=======
+ */
+>>>>>>> refs/remotes/origin/main
